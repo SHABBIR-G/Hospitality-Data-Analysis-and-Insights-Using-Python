@@ -5,7 +5,8 @@ A data analysis project exploring hotel booking trends using Python, Pandas, and
 This repository contains a complete Exploratory Data Analysis (EDA) project performed on hotel booking data using Python and Jupyter Notebook. The analysis focuses on understanding booking behavior, guest patterns, cancellation trends, seasonal demand, and factors that influence customer decisions.
 
 ## 1. Project Overview
-The goal of this project is to analyze hotel booking data to identify patterns and trends that can support data-driven decision-making in the hospitality industry. The notebook covers data cleaning, transformation, exploration, and visualization.
+This project analyzes booking data for AtliQ Grands, a hotel chain operating across four major cities in India: Delhi, Mumbai, Bangalore, and Hyderabad. The objective was to uncover insights into occupancy rates, revenue patterns, and customer behavior to help AtliQ Grands address declining market share and improve revenue.
+
 
 ## 2. Key Objectives
 - Analyze booking distribution across various customer segments.
